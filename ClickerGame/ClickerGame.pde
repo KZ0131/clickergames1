@@ -53,8 +53,7 @@ void setup() {//========================================
    kappa = loadImage("kappa.png");
   sadfrog = loadImage("sadfrog.png");
  
-  //text font
-  sketch = createFont("sketch.ttf",200);
+
  
   //minim
   minim = new Minim(this);
